@@ -1,4 +1,4 @@
 ### NUNU
 - The Yeti Rider
 
-A Angular project
+Angular 6 App Project
