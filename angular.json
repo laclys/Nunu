@@ -30,7 +30,11 @@
               "./node_modules/ionicons/dist/css/ionicons.min.css",
               "./node_modules/font-awesome/css/font-awesome.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "./node_modules/admin-lte/dist/js/adminlte.min.js"
+            ]
           },
           "configurations": {
             "production": {
